@@ -1,0 +1,50 @@
+# 🌐 Node Modules (both backend and frontend)
+node_modules/
+backend/node_modules/
+Fronted/node_modules/
+
+# ⚙️ Build/Dist Folders (React/Angular/Vite outputs)
+Fronted/dist/
+Fronted/build/
+backend/build/
+
+# ⚠️ Env Files
+.env
+.env.*  # if you use .env.development, etc..
+
+# 🗑️ Logs
+*.log
+logs/
+npm-debug.log*
+
+# 📦 Dependency lock files (optional if not needed)
+yarn.lock
+pnpm-lock.yaml
+
+# 💅 IDE/Editor settings
+.vscode/
+.project
+.idea/
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# 📦 Package manager files
+package-lock.json
+# (Keep above if you don’t want it pushed. But in most teams, it’s kept for consistent installs.)
+
+# 🧪 Test coverage (if you run tests)
+coverage/
+
+# ⚛️ React/Vite specific
+Fronted/.next/
+Fronted/.turbo/
+Fronted/.vite/
+
+# 🔒 Others (optional but useful)
+*.pem
+*.key
+*.crt
+
+# 🧪 Angular specific (if using Angular)
+Fronted/.angular/
+Fronted/.angular-cache/
