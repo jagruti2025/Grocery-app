@@ -40,7 +40,7 @@ A full-stack Grocery Web App built with **Angular (Frontend)**, **Node.js + Expr
 ---
 
 ### 🔧 Backend (Node.js + Express)
-cd backend
-npm install
-npm run dev
-Runs at: http://localhost:5000/
+- cd backend
+- npm install
+- npm run dev
+- Runs at: http://localhost:5000/
