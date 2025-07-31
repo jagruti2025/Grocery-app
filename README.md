@@ -32,16 +32,14 @@ A full-stack Grocery Web App built with **Angular (Frontend)**, **Node.js + Expr
 
 ### 🖥️ Frontend (Angular)
 
-```bash
 cd frontend
 npm install
 ng serve
 Runs at: http://localhost:4200/
 
+---
+
 ### 🔧 Backend (Node.js + Express)
-bash
-Copy
-Edit
 cd backend
 npm install
 npm run dev
