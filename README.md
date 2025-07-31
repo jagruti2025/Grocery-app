@@ -27,3 +27,13 @@ A full-stack Grocery Web App built with **Angular (Frontend)**, **Node.js + Expr
 | Styling       | Bootstrap / Angular Material |
 
 ---
+
+## 🚀 Setup Instructions
+
+### 🖥️ Frontend (Angular)
+
+```bash
+cd frontend
+npm install
+ng serve
+Runs at: http://localhost:4200/
